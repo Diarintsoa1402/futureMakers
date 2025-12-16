@@ -39,7 +39,7 @@ import FundingRequest from "./pages/women/FundingRequest"; // ✅ ajouté
 import MentorRequest from "./pages/women/MentorRequest"; // ✅ ajouté
 import MyProjects from "./pages/women/MyProjects";
 import Progress from "./pages/Women/ProgressDashboard";
-import MyProgression from "./pages/Women/MyProgression.Jsx";
+import MyProgression from "./pages/women/MyProgression.Jsx";
 import JoinVisio from "./pages/women/JoinVisio";
 
 // Pages mentors
