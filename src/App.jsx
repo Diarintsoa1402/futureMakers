@@ -38,7 +38,7 @@ import FormationDetail from "./pages/women/FormationDetail";
 import FundingRequest from "./pages/women/FundingRequest"; // ✅ ajouté
 import MentorRequest from "./pages/women/MentorRequest"; // ✅ ajouté
 import MyProjects from "./pages/women/MyProjects";
-
+import Progress from "./pages/women/ProgressDashboard"
 import MyProgression from "./pages/women/MyProgression.Jsx";
 import JoinVisio from "./pages/women/JoinVisio";
 
